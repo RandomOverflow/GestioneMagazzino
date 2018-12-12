@@ -1,0 +1,121 @@
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.lref
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino.mdf
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino_log.ldf
+C:\Users\lab113\Desktop\prendo 10\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_Content.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino.mdf
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino_log.ldf
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_Content.g.cs
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\WarehouseManagement.g.cs
+D:\Downloads\Gestione Magazzino V0.1\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\WarehouseManagement.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_Content.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino.mdf
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino_log.ldf
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino V0.2\Gestione Magazzino\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.baml
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_Content.g.cs
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino.mdf
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\magazzino_log.ldf
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\ObservableCollectionEx.dll
+C:\Users\jacopo\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csprojResolveAssemblyReference.cache
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\ObservableCollectionEx.dll
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.ResolveComReference.cache
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.baml
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.baml
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\LogWindow.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.lref
+D:\Downloads\Gestione Magazzino\Gestione Magazzino\obj\Debug\LogWindow.baml
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe.config
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\bin\Debug\Gestione Magazzino.pdb
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.ResolveComReference.cache
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.baml
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.baml
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\AddElementWindow.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\LogWindow.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\OrdersWindow.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\App.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.cache
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino_MarkupCompile.lref
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\LogWindow.baml
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\MainWindow.baml
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.g.resources
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione_Magazzino.Properties.Resources.resources
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.csproj.GenerateResource.Cache
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.exe
+C:\Users\jacopo\Desktop\Gestione Magazzino\Gestione Magazzino\obj\Debug\Gestione Magazzino.pdb

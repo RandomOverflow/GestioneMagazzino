@@ -1,0 +1,69 @@
+﻿<Window x:Class="Gestione_Magazzino.LogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:Gestione_Magazzino.Converters"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="LOG"
+        Width="650"
+        Height="450"
+        Icon="Images/log.png"
+        WindowStartupLocation="CenterOwner"
+        mc:Ignorable="d">
+    <Grid>
+        <DataGrid Name="DataGridLog"
+                  d:DataContext="{d:DesignData}"
+                  AutoGenerateColumns="False"
+                  CanUserSortColumns="False"
+                  HorizontalScrollBarVisibility="Visible"
+                  IsReadOnly="True"
+                  Background="#FFFFFFFF"
+                  VerticalScrollBarVisibility="Visible">
+            <DataGrid.Resources />
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Binding="{Binding DateTime, StringFormat='dd-MM-yyyy HH:mm:ss'}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <Image Width="24"
+                                   Height="24"
+                                   HorizontalAlignment="Center"
+                                   Source="Images/clock.png" />
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding EventType}" Header="Event Type">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <Image Width="24"
+                                   Height="24"
+                                   HorizontalAlignment="Center"
+                                   Source="Images/label.png" />
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Text}" Header="Text">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <Image Width="24"
+                                   Height="24"
+                                   HorizontalAlignment="Center"
+                                   Source="Images/message.png" />
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.RowStyle>
+
+                <Style BasedOn="{StaticResource {x:Type DataGridRow}}" TargetType="{x:Type DataGridRow}">
+                    <Style.Resources>
+
+                        <converters:MessageToBrushConverter x:Key="MessageToBrushConverter" />
+                    </Style.Resources>
+                    <Setter Property="Foreground"
+                            Value="{Binding  EventType, Converter={StaticResource MessageToBrushConverter}}" />
+                </Style>
+            </DataGrid.RowStyle>
+        </DataGrid>
+    </Grid>
+</Window>
